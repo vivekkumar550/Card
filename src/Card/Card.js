@@ -10,7 +10,7 @@ function Card({ title, imageUrl, body }) {
         </div>
         <div className='card-content'>
             <div className='card-title'>
-                <h4>{title}</h4>
+                <h5>{title}</h5>
             </div>
             <div className='card-body'>
                 <p>{body}</p>
